@@ -1,4 +1,4 @@
-# To run app
+# To run
 ### Create venv
 - `python -m venv ./venv`
 ### Activate venv
